@@ -15,7 +15,7 @@
 
 ⭐ I’m looking for Software engineering internship opportunities 🙋. I’m interested in solving problems and building software that impact people around me 🙌 .
 
-👉 You can read more about me at my personal website<a href="https://khoshimov2018.github.io" target="blank"></a>.
+👉 You can read more about me at <a href="https://khoshimov2018.github.io">my personal website</a>.
 
 🤝 Feel free to connect with me on LinkedIn or send me a message via my email khoshimov2018@gmail.com or khoshimov2018@korea.ac.kr.
 <h3 align="left">Connect with me:</h3>
