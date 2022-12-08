@@ -17,6 +17,7 @@
 👉 You can read more about me at <a href="https://khoshimov2018.github.io">my personal website</a>.
 
 🤝 Feel free to connect with me on LinkedIn or send me a message via my email khoshimov2018@gmail.com or khoshimov2018@korea.ac.kr.
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/rakhmatullo_kh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rakhmatullo_kh" height="30" width="40" /></a>
