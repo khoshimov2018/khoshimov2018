@@ -7,18 +7,17 @@
 
 <p align="left"> <a href="https://twitter.com/rakhmatullo_kh" target="blank"><img src="https://img.shields.io/twitter/follow/rakhmatullo_kh?logo=twitter&style=for-the-badge" alt="rakhmatullo_kh" /></a> </p>
 
-- 🔭 I’m currently working on **Shopping App**
+👨‍💻 I'm a senior majoring in Computer Science and Engineering at Korea University.
 
-- 🌱 I’m currently learning **Everything**
+😄 I am interested in Open Source, Software Development and Engineering. Besides coding, I am passionate about building technology communities. I have contributed to national and international technology communities Facebook Developer Circle: Seoul, Developer Students Club by Google Developers, Microsoft Student Ambassadors, and JunctionX to develop robust tech communities and digital contents to help fellow students develop technical and career skills for the future.
 
-- 👯 I’m looking to collaborate on **any projects that improves human lives**
+🍀 On the other hand, I'm also interested in international relations, economic and policy. I participated in global summits such as Global Youth Leaders Summit 2019, Belt and Road Global Youth Leaders Summit 2019, Google Developer Student Club Lead Summit 2019, Asia-Pacific Youth Labor Trend Forum 2019, HPAIR Harvard Conference 2021 Embracing Change: Thriving in Innovation, ASEAN - Korea Economic Forum 2022, The ROK-Mekong Youth Group Workshop 2022 to take social responsibility and apply my technology knowledge to transform the community and create an impact on our society.
 
-- 💬 Ask me about **Algorithms and Data Structures**
+⭐ I’m looking for Software engineering internship opportunities 🙋. I’m interested in solving problems and building software that impact people around me 🙌 .
 
-- 📫 How to reach me **khoshimov2018@gmail.com**
+👉 You can read more about me at my personal website<a href="https://khoshimov2018.github.io" target="blank"></a>.
 
-- ⚡ Fun fact **I am Funny**
-
+🤝 Feel free to connect with me on LinkedIn or send me a message via my email khoshimov2018@gmail.com or khoshimov2018@korea.ac.kr.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/rakhmatullo_kh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rakhmatullo_kh" height="30" width="40" /></a>
