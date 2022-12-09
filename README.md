@@ -10,7 +10,7 @@
 
 😄 I am interested in Open Source, Software Development and Engineering. Besides coding, I am passionate about building technology communities. I have contributed to national and international technology communities Facebook Developer Circle: Seoul, Developer Students Club by Google Developers, Microsoft Student Ambassadors, and JunctionX to develop robust tech communities and digital contents to help fellow students develop technical and career skills for the future.
 
-🍀 On the other hand, I'm also interested in international relations, economic and policy. I participated in global summits such as Global Youth Leaders Summit 2019, Google Developer Student Club Lead Summit 2019, HPAIR Harvard Conference 2021 Embracing Change: Thriving in Innovation, ASEAN - Korea Economic Forum 2022 to take social responsibility and apply my technology knowledge to transform the community and create an impact on our society.
+🍀 On the other hand, I'm also interested in international relations, economic and policy. I participated in global summits such as Global Youth Leaders Summit 2019, Google Developer Student Club Lead Summit 2019, HPAIR Harvard Conference 2021 Embracing Change: Thriving in Innovation to take social responsibility and apply my technology knowledge to transform the community and create an impact on our society.
 
 ⭐ I’m looking for Software engineering internship opportunities 🙋. I’m interested in solving problems and building software that impact people around me 🙌 .
 
