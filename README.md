@@ -6,13 +6,13 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khoshimov2018" alt="khoshimov2018" /></a> </p>
 
 
-👨‍💻 I'm a senior majoring in Computer Science and Engineering at Korea University.
+👨‍💻 I'm a Master's student in Computer Science at the University of Basel.
 
 😄 I am interested in Open Source, Software Development and Engineering. Besides coding, I am passionate about building technology communities. I have contributed to national and international technology communities Facebook Developer Circle: Seoul, Developer Students Club by Google Developers, Microsoft Student Ambassadors, and JunctionX to develop robust tech communities and digital contents to help fellow students develop technical and career skills for the future.
 
 🍀 On the other hand, I'm also interested in international relations, economic and policy. I participated in global summits such as Global Youth Leaders Summit 2019, Google Developer Student Club Lead Summit 2019, HPAIR Harvard Conference 2021 Embracing Change: Thriving in Innovation to take social responsibility and apply my technology knowledge to transform the community and create an impact on our society.
 
-⭐ I’m looking for Software engineering internship opportunities 🙋. I’m interested in solving problems and building software that impact people around me 🙌 .
+⭐ I’m looking for Software Engineering Opportunities 🙋. I’m interested in solving problems and building software that impact people around me 🙌 .
 
 👉 You can read more about me at <a href="https://khoshimov2018.github.io">my personal website</a>.
 
